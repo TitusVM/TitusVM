@@ -1,6 +1,8 @@
 # Presentation
 
-<img src="https://user-images.githubusercontent.com/114073517/220314916-e6975a5a-c1e7-4373-8c56-44ef4728548d.png" loading="lazy" width="16" height="16"> [Titus Abele](https://www.linkedin.com/in/titus-abele-13265821b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/titus-abele-13265821b/)](https://www.linkedin.com/in/titus-abele-13265821b/)
+
+[![GitHub TitusVM](https://img.shields.io/github/followers/TitusVM?label=Follow&style=social)](https://github.com/TitusVM)
 
 # My Projects
 

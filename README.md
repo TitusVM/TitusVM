@@ -1,4 +1,7 @@
-# About me
+<img src="https://user-images.githubusercontent.com/114073517/221203671-d0544fbe-6446-4131-b6bb-9e910368ddef.png" width=20% title="A programmer in ancient Greece, XVth century, colorised">
+
+# About me!
+
 
 I'm currently studying Software Development at [HE-Arc](https://github.com/HE-Arc) in Neuchâtel, Switzerland. 
 

@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/114073517/221203671-d0544fbe-6446-4131-b6bb-9e910368ddef.png" width=20% title="A programmer in ancient Greece, XVth century, colorised">
+<img src="https://user-images.githubusercontent.com/114073517/221203671-d0544fbe-6446-4131-b6bb-9e910368ddef.png" width=20% title="A programmer in ancient Greece, 100 BC">
 
 # About me!
 

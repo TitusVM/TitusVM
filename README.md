@@ -9,3 +9,7 @@ I'm currently studying Software Development at [HE-Arc](https://github.com/HE-Ar
 
 [![GitHub TitusVM](https://img.shields.io/github/followers/TitusVM?label=Follow&style=social)](https://github.com/TitusVM)
 
+# Stats
+
+![TitusVM's Github Stats](https://github-readme-stats.vercel.app/api?username=TitusVM&show_icons=true)
+

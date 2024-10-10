@@ -3,7 +3,7 @@
 # About me!
 
 
-I'm currently doing a Masters in Computer Science (orientation CyberSecurity) at [HES-SO Master](https://www.hes-so.ch/master) in Neuchâtel, Switzerland. 
+I'm currently doing a Masters in Computer Science (orientation CyberSecurity) at [HES-SO Master](https://www.hes-so.ch/master) in Lausanne, Switzerland. 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/titus-abele-13265821b/)](https://www.linkedin.com/in/titus-abele-13265821b/)
 
